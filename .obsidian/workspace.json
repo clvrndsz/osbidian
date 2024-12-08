@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "22383d83d6f7ee92",
+    "type": "split",
+    "children": [
+      {
+        "id": "7842d81ad2205450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4a7dbaec71f27ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Associative Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Associative Types"
+            }
+          },
+          {
+            "id": "235a4b3e565a4269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data-oriented Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data-oriented Design"
+            }
+          },
+          {
+            "id": "f01913e36a7ed35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project ideas"
+            }
+          },
+          {
+            "id": "b3ef6fee06e31fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interrupts-embedded.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "interrupts-embedded"
+            }
+          },
+          {
+            "id": "2f70a7ebd284ac57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "145b4e86cfa5e5e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "serial communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "serial communication"
+            }
+          },
+          {
+            "id": "008f33ab255744d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Async Rust in Embassy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Async Rust in Embassy"
+            }
+          },
+          {
+            "id": "9971faadef26bc28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmux cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tmux cheatsheet"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89636e10cf4cce48",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9ca8f0e4bad1a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f39c467e42abaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba2a32ae4e6afa24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3fd984b720e62f31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "07fb620348b98b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "6142e274152f7462",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dc7c817f48bc76c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Associative Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Associative Types"
+            }
+          },
+          {
+            "id": "8c0c6be036a85663",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Associative Types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Associative Types"
+            }
+          },
+          {
+            "id": "e83256a3a4f08c0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49e56a33d8997ef3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Associative Types.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Associative Types"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "008f33ab255744d6",
+  "lastOpenFiles": [
+    "Pasted image 20241127215852.png",
+    "Pasted image 20241127214450.png",
+    "Pasted image 20241127214415.png",
+    "tmux cheatsheet.md",
+    "Pasted image 20241127213731.png",
+    "Async Rust in Embassy.md",
+    "Pasted image 20241127203331.png",
+    "Pasted image 20241127201921.png",
+    "serial communication.md",
+    "LED roulette.md",
+    "interrupts-embedded.md",
+    "TODO.md",
+    "chapter_1-zero-to-async.md",
+    "Untitled.md",
+    "Rust embedded Async.md",
+    "Data-oriented Design.md",
+    "Project ideas.md",
+    "Associative Types.md",
+    "Accessing fields of a union.md",
+    "Implementing an unsafe Trait.md",
+    "Accessing or Modifying a mutable static variable.md",
+    "Hibernate on Linux Mint.md",
+    "Laws of life.md",
+    "mottainai.md",
+    "mono-no-aware.md",
+    "shu-ha-ri.md",
+    "kaizen.md",
+    "gaman.md",
+    "shikata ga nai.md",
+    "wabi-sabi.md",
+    "ikigai.md"
+  ]
+}
